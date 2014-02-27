@@ -6,7 +6,7 @@ import IatePair.ECCp;
 import IatePair.PairParameter;
 import IatePair.TatePair;
 
-
+//wota
 public class PKG {
   
   PairParameter ECCParam;
